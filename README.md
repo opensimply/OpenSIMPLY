@@ -14,16 +14,23 @@ OpenSIMPLY installation.
 The contents of the package.
 ----------------------------
 
-\OpenSIMPLY         License files.
-   bin              Installation tools and demo file.
-   doc              Documentation in HTML and CHM formats.  
-     html              
-   sources          The sources of OpenSIMPLY.
-     lazarus        Lazarus package for OpenSIMPLY.   
-  tutorial              
-    delphi          Tutorial for Delphi users. 
-    lazarus         Tutorial for Lazarus users. 
-    pas             Tutorial sources.
+[OpenSIMPLY].........License files.
+
+__[bin]..............Installation tools and demo file.
+
+__[doc]..............Documentation in HTML and CHM formats.  
+
+__[sources]..........The sources of OpenSIMPLY.
+
+_____[lazarus].......Lazarus package for OpenSIMPLY.   
+	 
+__[tutorial]
+              
+_____[delphi]........Tutorial for Delphi users. 
+
+_____[lazarus].......Tutorial for Lazarus users. 
+
+_____[pas]...........Tutorial sources.
 
 
 
