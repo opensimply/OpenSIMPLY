@@ -9,7 +9,7 @@ OpenSIMPLY installation.
 
 1. Unpack the archive OpenSIMPLY.zip with the directory structure to the preferred location.
    It is recommended to use the name "OpenSIMPLY" for the unpacking directory.
-   Otherwise do not forget to change the path to package file (Lazarus users).
+   Do not forget to change the path to package file for other directory name.
  
 2. Go to the subdirectory "bin" of "OpenSIMPLY" and launch the file "simply-setup.exe".
    Follow the instructions. 
