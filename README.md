@@ -1,19 +1,31 @@
 # OpenSIMPLY
+
 Open source free run-time library for discrete event simulation in Delphi, Free Pascal, Lazarus.
 ************************************************************************************************
 
 OpenSIMPLY installation.
 ========================
 
-*** Windows ***
+Unpack the archive OpenSIMPLY.zip with the directory structure to the preferred location.
 
-1. Unpack the archive OpenSIMPLY.zip with the directory structure to the preferred location.
-   It is recommended to use the name "OpenSIMPLY" for the unpacking directory.
-   Do not forget to change the path to package file for other directory name.
- 
-2. Go to the subdirectory "bin" of "OpenSIMPLY" and launch the file "simply-setup.exe".
-   Follow the instructions. 
 
+On Windows
+==========
+Go to the subdirectory "bin/windows"
+Launch the file "simply-setup.exe".
+
+
+On Linux
+========
+Go to the subdirectory "bin/linux".
+Make the file "simply-setup.sh" executable: chmod +x simply-setup.sh
+Launch it:  ./simply-setup.sh  
+
+Learn more in the file "linux_users.txt".
+
+
+After installation
+==================
 
 Launch the projects with the learning examples from the subdirectory "tutorial".
 
@@ -25,21 +37,44 @@ Follow the news and information at <facebook.opensimply.org>
 Contents of OpenSIMPLY.zip
 --------------------------
 
-[OpenSIMPLY].........License files.
-
-__[bin]..............Installation tools.
-
-__[doc]..............Documentation in HTML and CHM formats.  
-
-__[sources]..........The sources of OpenSIMPLY.
-
-_____[lazarus].......Lazarus package for OpenSIMPLY.   
-	 
-__[tutorial]
-              
-_____[delphi]........Tutorial for Delphi users. 
-
-_____[lazarus].......Tutorial for Lazarus users. 
-
-_____[pas]...........Tutorial sources.
+[OpenSIMPLY]..........Root of the structure.
+|
+|__[bin]
+|  |
+|  |__[linux].........Installation tools.
+|  |
+|  |__[windows].......Installation tools.
+| 
+|  
+|__[doc]..............Documentation in HTML and CHM formats.  
+|  |
+|  |__[html]
+| 
+| 
+|__[lib]
+|  |
+|  |__[linux].........Coroutine manager libraries.
+|  |  |
+|  |  |__[x32]
+|  |  |
+|  |  |__[x64]
+|  |
+|  |__[windows].......Coroutine manager libraries.
+|     |
+|     |__[x32]
+|     |
+|     |__[x64]
+| 
+| 
+|__[sources]..........The sources of OpenSIMPLY.
+|  |
+|  |__[lazarus].......Lazarus package for OpenSIMPLY.   
+|  
+|__[tutorial]
+   |           
+   |__[delphi]........Tutorial for Delphi users. 
+   |
+   |__[lazarus].......Tutorial for Lazarus users. 
+   |
+   |__[pas]...........Tutorial sources.
 
