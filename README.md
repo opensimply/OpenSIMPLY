@@ -8,8 +8,9 @@ Open source free run-time library for discrete event simulation in Delphi, Free 
 Unpack the archive OpenSIMPLY.zip with the directory structure to the preferred location.
 
 ### On Windows
-   Go to the subdirectory "bin/windows".
-   Launch the file "simply-setup.exe".
+
+    Go to the subdirectory "bin/windows".
+    Launch the file "simply-setup.exe".
 
 ### On Linux
  
