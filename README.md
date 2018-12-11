@@ -28,4 +28,4 @@ Launch the projects with the learning examples from the subdirectory "tutorial".
 
 Watch learning videos on [OpenSIMPLY installing](https://www.youtube.com/playlist?list=PLnyWoktGqACfmaw4hh7LUbjeVIhSYfh_W)
  
-[Follow the news](facebook.opensimply.org) 
+[Follow the news](http://facebook.opensimply.org) 
