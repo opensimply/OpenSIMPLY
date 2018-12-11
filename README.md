@@ -1,7 +1,8 @@
-# OpenSIMPLY
+# OpenSIMPLY 2.2.1
+******************
 
-Open source free run-time library for discrete event simulation in Delphi, Free Pascal, Lazarus.
-************************************************************************************************
+Open source free run-time library for discrete event simulation modeling in Delphi, Lazarus, Free Pascal.
+*********************************************************************************************************
 
 ## OpenSIMPLY installation.
 
@@ -25,6 +26,6 @@ Unpack the archive OpenSIMPLY.zip with the directory structure to the preferred 
 
 Launch the projects with the learning examples from the subdirectory "tutorial".
 
-Watch the learning videos at <youtube.opensimply.org>
+Watch learning videos on [OpenSIMPLY installing](https://www.youtube.com/playlist?list=PLnyWoktGqACfmaw4hh7LUbjeVIhSYfh_W)
  
-Follow the news and information at <facebook.opensimply.org> 
+Follow the news and information at facebook.opensimply.org 
