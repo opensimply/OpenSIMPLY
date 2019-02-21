@@ -2,7 +2,7 @@
 ******************
 
 Open source free run-time library for discrete event simulation modeling in Delphi, Lazarus, Free Pascal.
-*********************************************************************************************************
+**********************************************************************************************************
 
 ## OpenSIMPLY installation.
 
