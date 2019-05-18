@@ -1,7 +1,5 @@
-# OpenSIMPLY 2.3.0
+# OpenSIMPLY 2.4.0
 ******************
-
-Executable demos are available at http://opensimply.org/download.php#demos
 
 Open source free run-time library for discrete event simulation modeling in Delphi, Lazarus, Free Pascal.
 *********************************************************************************************************
@@ -31,3 +29,5 @@ Launch the projects with the learning examples from the subdirectory "tutorial".
 Watch OpenSIMPLY installation videos: [OpenSIMPLY installing](https://www.youtube.com/playlist?list=PLnyWoktGqACfmaw4hh7LUbjeVIhSYfh_W)
  
 [Follow the news](http://facebook.opensimply.org) 
+
+Download executable practical demos (also available at http://opensimply.org/download.php#demos).
