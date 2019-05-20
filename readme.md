@@ -30,4 +30,4 @@ Watch OpenSIMPLY installation videos: [OpenSIMPLY installing](https://www.youtub
  
 [Follow the news](http://facebook.opensimply.org) 
 
-Download executable practical demos (also available at http://opensimply.org/download.php#demos).
+Download executable practical demos ( http://opensimply.org/download.php#demos ).
