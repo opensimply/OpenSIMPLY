@@ -38,4 +38,4 @@ Just select the source type on setup and run any project.
 [FB](https://www.facebook.com/OpenSIMPLY-1870256963235731) 
 
 ## Watch more 
-[YT] (https://www.youtube.com/channel/UC2zS4bym5NrhxqtBBWv5lzg)
+[YouTube](https://www.youtube.com/channel/UC2zS4bym5NrhxqtBBWv5lzg)
