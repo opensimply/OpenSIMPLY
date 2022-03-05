@@ -1,11 +1,36 @@
-OpenSIMPLY project
-******************
+# OpenSIMPLY 4.0
 
-## [OpenSIMPLY repository](https://github.com/opensimply/OpenSIMPLY)
-Free open source software for discrete event simulation in Delphi, Lazarus, Free Pascal.
+Free and open source software for discrete event simulation in Delphi, Lazarus, Free Pascal.
+*******************************************************************************************
+
+## OpenSIMPLY installation.
+
+Unpack the OpenSIMPLY.zip archive with the directory structure to the preferred location.
+
+### On Windows
+
+    Go to the "bin\windows" subdirectory.
+    Launch the "simply-setup.exe" file.
+
+### On Linux
+
+    Go to the "bin/linux" subdirectory.
+    Make the "simply-setup.sh" file executable: chmod +x simply-setup.sh
+    Launch it: ./simply-setup.sh  
 
 
-## [Simply-Memory-Manager repository](https://github.com/opensimply/Simply-Memory-Manager)
-Memory manager for Free Pascal and Lazarus. 
+Watch [OpenSIMPLY installation videos](https://www.youtube.com/playlist?list=PLnyWoktGqACfmaw4hh7LUbjeVIhSYfh_W)
 
-## Follow the news [RSS](https://opensimply.org/feed.php) [Twitter](https://www.twitter.com/OpenSIMPLY)
+## Tutorial 
+
+Tutorial projects from the "tutorial" subdirectory requires no OpenSIMPLY installation. 
+Just select the source type on setup and run any project.
+
+## Homepage
+
+[opensimply.org](https://opensimply.org/)
+
+## Follow the news 
+
+[RSS](https://opensimply.org/feed.php) 
+[Twitter](https://www.twitter.com/OpenSIMPLY)
