@@ -31,7 +31,7 @@ Just select the source type on setup and run any project.
  
 [opensimply.org](https://opensimply.org/)
 
-[Ask a question or report an issue](opensimply.org/feedback)
+[Ask a question or report an issue](https://opensimply.org/feedback)
 
 ## Follow the news 
 
