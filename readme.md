@@ -4,11 +4,11 @@
 Open source free software for discrete event simulation in Delphi, Lazarus, Free Pascal.
 ****************************************************************************************
 
-## Main download location: [opensimply.org](https://opensimply.org/) 
+## Download at: [opensimply.org](https://opensimply.org/) 
 
-This repository might not be updated on time. The OpenSIMPLY contains several components that are developed separately.
+This repository will not be updated.
 
-It would be better to visit the [opensimply.org](https://opensimply.org/) home page for the latest version.
+The OpenSIMPLY contains several components that are developed separately.
 
 
 
