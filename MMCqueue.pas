@@ -1,11 +1,12 @@
-(**************************************************************************************
+(******************************************************************************
 
-   Open source free software for discrete-event simulation.
+    Open source software for discrete-event simulation 
+    
+    in Delphi, Free Pascal and Lazarus
 
-   Download OpenSIMPLY at: https://opensimply.org/ 
+    Download  at: https://opensimply.org/ 
 
-***************************************************************************************)
-
+*******************************************************************************)
 
 
 program MMCqueue;
