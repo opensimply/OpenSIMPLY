@@ -1,6 +1,6 @@
 (**************************************************************************************
 
-   Open source free software for discrete event simulation.
+   Open source free software for discrete-event simulation.
 
    Download OpenSIMPLY at: https://opensimply.org/ 
 
