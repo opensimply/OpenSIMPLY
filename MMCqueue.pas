@@ -1,8 +1,8 @@
 (******************************************************************************
 
- This is an example using OpenSIMPLY.
+  This is an example using OpenSIMPLY.
    
- Download the OpenSIMPLY at: https://opensimply.org/ 
+  Download the OpenSIMPLY at https://opensimply.org/ 
 
 *******************************************************************************)
 
