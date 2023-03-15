@@ -1,10 +1,8 @@
 (******************************************************************************
 
-    Open source software for discrete-event simulation 
-    
-    in Delphi, Free Pascal and Lazarus
-
-    Download  at: https://opensimply.org/ 
+ This is an example using OpenSIMPLY.
+   
+ Download the OpenSIMPLY at: https://opensimply.org/ 
 
 *******************************************************************************)
 
