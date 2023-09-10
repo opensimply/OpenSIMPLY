@@ -1,7 +1,12 @@
 # Discrete-event simulation software for Delphi, Free Pascal, Lazarus
 *********************************************************************
 ## Download OpenSIMPLY 4.0.2 at [opensimply.org](https://opensimply.org/) 
- 
+
+*********************************************************************
+
+## Download simulation demos at [https://opensimply.org/simulation-demo.php](https://opensimply.org/simulation-demo.php) 
+
+*********************************************************************
 
 
 [RSS](https://opensimply.org/feed.php) 
