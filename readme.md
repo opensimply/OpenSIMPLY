@@ -1,4 +1,4 @@
-# [Simulation software for Delphi and Free Pascal](https://github.com/opensimply/OpenSIMPLY/) 
+# [Simulation software for Delphi and Free Pascal](/OpenSIMPLY/) 
 OpenSIMPLY is free open source discrete-event simulation software for Delphi and Free Pascal
 ## [Download and learn more at  opensimply.org](https://opensimply.org/) 
 
