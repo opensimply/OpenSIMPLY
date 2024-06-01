@@ -1,6 +1,10 @@
 # [Simulation software for Delphi and Free Pascal](https://github.com/opensimply/OpenSIMPLY/)
 OpenSIMPLY is free open source discrete-event simulation software for Delphi and Free Pascal
 ***
+OpenSIMPLY 4.1.0 has been released.
+**
+The version contains minor fixes, COMTAY coroutine manager as an engine, improved functionality, new features and DPI support.             
+***
 **Download OpenSIMPLY and learn more at [opensimply.org](https://opensimply.org/)** 
 ***
 **Download simulation demos at [opensimply.org/simulation-demo](https://opensimply.org/simulation-demo.php)**
