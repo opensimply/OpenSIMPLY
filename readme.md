@@ -5,8 +5,6 @@ OpenSIMPLY 4.1.1 has been released. **Download OpenSIMPLY at [opensimply.org](ht
 ***
 The version 4.1.1 contains fixes to prevent Delphi 12 compiler errors. 
 ***
-**Download simulation demos at [opensimply.org/simulation-demo](https://opensimply.org/simulation-demo.php)**
-
-**The OpenSIMPLY Demos 4.2** has been released. 
+The OpenSIMPLY Demos 4.2 has been released. **Download simulation demos at [opensimply.org/simulation-demo](https://opensimply.org/simulation-demo.php)**
 ***
 See example [of MMC queuing system](https://github.com/opensimply/OpenSIMPLY/blob/main/MMCqueue.pas)
