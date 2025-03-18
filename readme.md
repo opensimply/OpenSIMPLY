@@ -1,9 +1,9 @@
 # [Simulation software for Delphi and Free Pascal](https://github.com/opensimply/OpenSIMPLY/)
 OpenSIMPLY is free open source discrete-event simulation software for Delphi and Free Pascal
 ***
-OpenSIMPLY 4.1.1 has been released. The version contains fixes to prevent Delphi 12 compiler errors.             
+OpenSIMPLY 4.1.1 has been released. **Download OpenSIMPLY at [opensimply.org](https://opensimply.org/)** 
 ***
-**Download OpenSIMPLY at [opensimply.org](https://opensimply.org/)** 
+The version 4.1.1 contains fixes to prevent Delphi 12 compiler errors. 
 ***
 **Download simulation demos at [opensimply.org/simulation-demo](https://opensimply.org/simulation-demo.php)**
 
